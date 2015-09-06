@@ -1,0 +1,10 @@
+{
+  "name": "polyline-encoded",
+  "repo": "code42day/polyline-encoded",
+  "version": "0.0.7-1",
+  "main": "Polyline.encoded.js",
+  "description": "Encoding and decoding of Google's polyline encoding format",
+  "scripts": [
+    "Polyline.encoded.js"
+  ]
+}
